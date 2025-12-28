@@ -36,6 +36,3 @@ resetGame(): 重置游戏状态
 背景音乐：https://www.bilibili.com/video/BV1xs4y1w7DD
 吃/死亡音效：https://pixabay.com/zh/sound-effects
 
-## AI指导
-ChatGPT-5：历史最高分数记录 食物粒子特效 音乐播放
-DeepSeek：整体Bug检查 按键触发问题、音乐播放无声音等Bug
